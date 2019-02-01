@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Rxjava</string>
+    <string name="no_app_to_perform">no_app_to_perform</string>
+    <string name="failed_to_attach">failed_to_attach</string>
+    <string name="internal_storage">internal_storage</string>
+</resources>
